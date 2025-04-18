@@ -28,7 +28,7 @@ export const Navbar = () => {
             href="/"
           >
             <Logo />
-            <p className="font-bold text-inherit">PROVIDERS</p>
+            <p className="font-bold text-inherit">SERVICE SEEKERS</p>
           </Link>
         </NavbarBrand>
       </NavbarContent>
